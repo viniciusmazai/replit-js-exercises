@@ -1,10 +1,23 @@
 # replit-js-exercises
 
-# Exercise 1
-- In this exercise, you will be working out of the file called troubleshooting.js.
-# Exercise 2
-- You will be working out of script.js, and you will use the console in the ‘webview’ pane to check your work. To access the console, click the wrench icon, which is located on the right side of the address bar within the ‘webview’ pane.
-# Exercise 3
-- You will be working out of math.js.
-# Exercise 4
-- You will be working out of follow.js.
+This repository contains my completed solutions for a series of JavaScript exercises. Each exercise was successfully solved as described below:
+
+## Exercise 1
+- File: `troubleshooting.js`
+- Status: Completed. I identified and fixed issues in the code to ensure proper functionality.
+
+## Exercise 2
+- File: `script.js`
+- Status: Completed. I performed the tasks and verified the functionality using the console.
+
+## Exercise 3
+- File: `math.js`
+- Status: Completed. I worked with mathematical operations and variable manipulation.
+
+## Exercise 4
+- File: `follow.js`
+- Status: Completed. I implemented the logic and interactions between variables as per the instructions.
+
+---
+
+This repository was migrated from Replit to GitHub as part of my practice using Git alongside these exercises.
